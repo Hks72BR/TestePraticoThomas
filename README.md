@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma API REST simples criada com ASP.NET Core, que permite gerenciar uma lista de tarefas (ToDo List). Além das operações CRUD (Criar, Ler, Atualizar, Deletar) de tarefas, a API integra-se com um script Python para gerar um relatório das tarefas.
+Este projeto é uma API REST simples criada com ASP.NET Core, que permite gerenciar uma lista de tarefas (ToDo List). Além das operações CRUD (Criar, Ler, Atualizar, Deletar) de tarefas, a API integra-se com um script Python para gerar um relatório das tarefas. Crie sua branch e no final crie um commit para main.
 
 ### Funcionalidades da API:
 
