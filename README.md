@@ -24,3 +24,13 @@ A integração com Python ocorre na rota `/api/todo/report`, onde a API gera um 
 - **.NET Core SDK**
 - **Python 3** (deve estar configurado no `PATH` do sistema)
 
+## Dicas 
+
+-Pode usar as ferramentas que se sentir confortavel. 
+
+## Analise 
+
+- Será avaliado criação do código 
+- Respostas da API
+- Integração com python
+- commit no repo
