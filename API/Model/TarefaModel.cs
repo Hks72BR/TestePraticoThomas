@@ -7,6 +7,7 @@ namespace API.Model
 {
     public class TarefaModel
     {
+        
         public int ID { get; set; }
         public string Titulo { get; set; }
         public string Descricao { get; set; }
